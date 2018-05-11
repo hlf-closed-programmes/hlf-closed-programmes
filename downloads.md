@@ -4,8 +4,9 @@ title: Downloads
 permalink: /downloads/
 ---
 
-{% assign documents_files = site.static_files | where: "documents", true %}
+{% for documents in site.static_files %}
 
-{% for mydocuments in dosucments_files %}
-  {{ documents.path }}
+  {% if image.path contains 'documents/' %}
+    <img src="{{ image.path }}" alt="">
+  {% endif %}
 {% endfor %}
