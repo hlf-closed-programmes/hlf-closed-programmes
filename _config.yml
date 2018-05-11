@@ -33,7 +33,9 @@ footer-links:
 
 #Collections
 collections:
-- _downloads
+downloads: 
+output: true
+permalink: /downloads/:path/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
