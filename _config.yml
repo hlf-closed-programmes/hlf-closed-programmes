@@ -31,10 +31,13 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
-#Render docs
+# Include assets directory
+include: ["_pages"] 
+
+# Render docs
 defaults:
   - scope:
-      path: "assets/docs"
+      path: "_includes/docs"
     values:
       file: true
 
