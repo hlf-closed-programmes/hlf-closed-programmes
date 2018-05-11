@@ -4,9 +4,4 @@ title: Downloads
 permalink: /downloads/
 ---
 
-{% for documents in site.static_files %}
-
-  {% if documents.path contains 'documents/' %}
-    <img src="{{ documents.path }}" alt="">
-  {% endif %}
-{% endfor %}
+ktd_receiving_a_grant_sep_16.pdf [downloads/kick_the_dust_application_form_sep_2016-accessible.pdf]
