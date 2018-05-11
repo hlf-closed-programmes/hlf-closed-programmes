@@ -6,7 +6,7 @@ permalink: /downloads/
 
 {% for documents in site.static_files %}
 
-  {% if image.path contains 'documents/' %}
-    <img src="{{ image.path }}" alt="">
+  {% if documents.path contains 'documents/' %}
+    <img src="{{ documents.path }}" alt="">
   {% endif %}
 {% endfor %}
