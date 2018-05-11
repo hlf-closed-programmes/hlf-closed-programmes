@@ -34,7 +34,7 @@ footer-links:
 #Render docs
 defaults:
   - scope:
-      path: "docs/img"
+      path: "assets/docs"
     values:
       file: true
 
