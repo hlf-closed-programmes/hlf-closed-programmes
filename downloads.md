@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Downloads
+permalink: /downloads/
 ---
 
-This website is a repository for documents and guidance from HLF's closed programmes
+{% assign documents_files = site.static_files | where: "documents", true %}
 
-### Contact me
-
-[digital@hlf.org.uk](mailto:digital@hlf.org.uk)
+{% for mydocuments in dosucments_files %}
+  {{ documents.path }}
+{% endfor %}
