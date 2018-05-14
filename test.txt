@@ -1,8 +1,3 @@
----
-layout: page
-title: Downloads
-permalink: /downloads/
----
 some text and [here is possible to download the file in PDF]({{ site.url }}downloads\heritage_endowments_tog_-_resources_costs.pdf)
 some text and [here is possible to download the file in PDF]({{ site.url }}downloads\kick_the_dust_application_form_sep_2016-accessible.pdf)
 some text and [here is possible to download the file in PDF]({{ site.url }}downloads\kick_the_dust_application_guidance_sep_2016-accessible (1).pdf)
@@ -48,8 +43,6 @@ some text and [here is possible to download the file in PDF]({{ site.url }}downl
 some text and [here is possible to download the file in PDF]({{ site.url }}downloads\gpow_wales_application_form.pdf)
 some text and [here is possible to download the file in PDF]({{ site.url }}downloads\gpow_wales_application_guidance.pdf)
 some text and [here is possible to download the file in PDF]({{ site.url }}downloads\gpow_wales_receiving_a_grant.pdf)
-some text and [here is possible to download the file in PDF]({{ site.url }}downloads\gpow_wales_terms_of_grant.pdf)
-some text and [here is possible to download the file in PDF]({{ site.url }}downloads\heritage_endowments_rag_august_2016 Receiving a Grant.pdf)
-some text and [here is possible to download the file in PDF]({{ site.url }}downloads\heritage_endowments_tog_-_endowment.pdf)
-
-
+some text and [here is possible to download the file in PDF]({{ site.url }}downloads\gpow_wales_terms_of_grant.pdf
+some text and [here is possible to download the file in PDF]({{ site.url }}downloads\heritage_endowments_rag_august_2016 Receiving a Grant.pdf
+some text and [here is possible to download the file in PDF]({{ site.url }}downloads\heritage_endowments_tog_-_endowment.pdf
