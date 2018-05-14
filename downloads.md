@@ -5,11 +5,11 @@ permalink: /downloads/
 ---
 ## Kick the Dust
 
--[application form]({{ site.url }}downloads\kick_the_dust_application_form_sep_2016-accessible.pdf)
--[application guidance]({{ site.url }}downloads\kick_the_dust_application_guidance_sep_2016-accessible (1).pdf)
--[project enquiry form]({{ site.url }}downloads\kick_the_dust_project_enquiry_form.pdf)
--[receiving a grant]({{ site.url }}downloads\ktd_receiving_a_grant_sep_16.pdf)
--[standard terms of grant]({{ site.url }}downloads\ktd_standard_terms_of_grant.pdf)
+-[application form]({{ site.url }}downloads\kick_the_dust_application_form_sep_2016-accessible.pdf)\
+-[application guidance]({{ site.url }}downloads\kick_the_dust_application_guidance_sep_2016-accessible (1).pdf)\
+-[project enquiry form]({{ site.url }}downloads\kick_the_dust_project_enquiry_form.pdf)\
+-[receiving a grant]({{ site.url }}downloads\ktd_receiving_a_grant_sep_16.pdf)\
+-[standard terms of grant]({{ site.url }}downloads\ktd_standard_terms_of_grant.pdf)\
 
 some text and [here is possible to download the file in PDF]({{ site.url }}downloads\lp_application_form.pdf)
 
