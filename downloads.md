@@ -27,7 +27,7 @@ permalink: /downloads/
 
 ## Landscape Partnerships
 - [application form]({{ site.url }}downloads\lp_application_form.pdf)
-- [application guidance]({{ site.url }}downloads\lp_application_form.pdf)
+- [application guidance]({{ site.url }}downloads\lp_application_guidance.pdf)
 - [receiving a grant]({{ site.url }}downloads\lp_receiving_a_grant.pdf)
 - [terms of grant]({{ site.url }}downloads\lp_terms_of_grant.pdf)
 
